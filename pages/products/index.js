@@ -1,9 +1,12 @@
 import ProductCard from "@/components/product/product-card";
-import styles from "../pages/products/product.module.scss";
+import { GetServerSideProps } from "next";
+import styles from "./product.module.scss";
+// import SideNav from "@/components/SideNav";
 
-const HomePage = ({productsData = []}) => {
+const ProductPage = ({ productsData = [] }) => {
   return (
     <section className={styles["product-section"]}>
+      {/* <SideNav data={sideNavData} /> */}
       <ul className={styles["product-section--list"]}>
         {productsData?.map(
           ({ productName, description, price, images }, index) => (
@@ -37,4 +40,4 @@ export const getServerSideProps = async (context) => {
   };
 };
 
-export default HomePage;
+export default ProductPage;

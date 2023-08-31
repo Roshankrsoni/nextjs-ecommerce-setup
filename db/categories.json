@@ -1,0 +1,542 @@
+{
+	"categories": [
+		{
+			"categoryID": "281",
+			"name": "Staples",
+			"children": [
+				"313",
+				"305",
+				"317",
+				"319",
+				"311",
+				"315",
+				"361",
+				"309",
+				"303"
+			]
+		},
+		{
+			"categoryID": "313",
+			"name": "Masalas & Spices",
+			"children": []
+		},
+		{
+			"categoryID": "305",
+			"name": "Wheat, Dals & Pulses",
+			"children": []
+		},
+		{
+			"categoryID": "317",
+			"name": "Oils & Ghee",
+			"children": []
+		},
+		{
+			"categoryID": "319",
+			"name": "Dry Fruits & Nuts",
+			"children": []
+		},
+		{
+			"categoryID": "311",
+			"name": "Rice",
+			"children": []
+		},
+		{
+			"categoryID": "315",
+			"name": "Indian Breakfast",
+			"children": []
+		},
+		{
+			"categoryID": "361",
+			"name": "Papads and Fryums",
+			"children": []
+		},
+		{
+			"categoryID": "309",
+			"name": "Salt, Sugar and Jaggery",
+			"children": []
+		},
+		{
+			"categoryID": "303",
+			"name": "Atta & Flours",
+			"children": []
+		},
+		{
+			"categoryID": "287",
+			"name": "Snacks & Packaged Food",
+			"children": [
+				"377",
+				"355",
+				"1057",
+				"373",
+				"363",
+				"375",
+				"379",
+				"357",
+				"359",
+				"365",
+				"371"
+			]
+		},
+		{
+			"categoryID": "377",
+			"name": "Biscuits & Cookies",
+			"children": []
+		},
+		{
+			"categoryID": "355",
+			"name": "Wafers & Snacks",
+			"children": []
+		},
+		{
+			"categoryID": "1057",
+			"name": "Instant Foods",
+			"children": []
+		},
+		{
+			"categoryID": "373",
+			"name": "Chocolates and Sweets",
+			"children": []
+		},
+		{
+			"categoryID": "363",
+			"name": "Noodles",
+			"children": []
+		},
+		{
+			"categoryID": "375",
+			"name": "Breakfast Cereals",
+			"children": []
+		},
+		{
+			"categoryID": "379",
+			"name": "Baking & Dessert Needs",
+			"children": []
+		},
+		{
+			"categoryID": "357",
+			"name": "Ready to Eat & Cook",
+			"children": []
+		},
+		{
+			"categoryID": "359",
+			"name": "Pasta",
+			"children": []
+		},
+		{
+			"categoryID": "365",
+			"name": "Health & Dietary Supplements",
+			"children": []
+		},
+		{
+			"categoryID": "371",
+			"name": "Digestives & Mouth Fresheners",
+			"children": []
+		},
+		{
+			"categoryID": "289",
+			"name": "Personal Care & Beauty",
+			"children": [
+				"401",
+				"403",
+				"399",
+				"389",
+				"387",
+				"395",
+				"383",
+				"385",
+				"393",
+				"391"
+			]
+		},
+		{
+			"categoryID": "401",
+			"name": "Hair Care",
+			"children": []
+		},
+		{
+			"categoryID": "403",
+			"name": "Soaps & Body Wash",
+			"children": []
+		},
+		{
+			"categoryID": "399",
+			"name": "Skin Care",
+			"children": []
+		},
+		{
+			"categoryID": "389",
+			"name": "Oral Care",
+			"children": []
+		},
+		{
+			"categoryID": "387",
+			"name": "Fem Hygiene Needs",
+			"children": []
+		},
+		{
+			"categoryID": "395",
+			"name": "Deos, Perfumes and Talcs",
+			"children": []
+		},
+		{
+			"categoryID": "383",
+			"name": "Medicare Products",
+			"children": []
+		},
+		{
+			"categoryID": "385",
+			"name": "Shaving Needs",
+			"children": []
+		},
+		{
+			"categoryID": "393",
+			"name": "Beauty Accessories",
+			"children": []
+		},
+		{
+			"categoryID": "391",
+			"name": "Cosmetics",
+			"children": []
+		},
+		{
+			"categoryID": "267",
+			"name": "Home Care and Laundry",
+			"children": [
+				"429",
+				"425",
+				"427",
+				"415",
+				"417",
+				"409",
+				"421",
+				"419",
+				"407",
+				"1113",
+				"1066",
+				"855",
+				"411"
+			]
+		},
+		{
+			"categoryID": "429",
+			"name": "Detergents and Laundry Aids",
+			"children": []
+		},
+		{
+			"categoryID": "425",
+			"name": "Utensil Cleaners",
+			"children": []
+		},
+		{
+			"categoryID": "427",
+			"name": "Toilet, Floor & Other Cleaners",
+			"children": []
+		},
+		{
+			"categoryID": "415",
+			"name": "Home & Kitchen Cleaning Tools",
+			"children": []
+		},
+		{
+			"categoryID": "417",
+			"name": "Disposable Goods",
+			"children": []
+		},
+		{
+			"categoryID": "409",
+			"name": "Pooja Needs",
+			"children": []
+		},
+		{
+			"categoryID": "421",
+			"name": "Insect Repellents",
+			"children": []
+		},
+		{
+			"categoryID": "419",
+			"name": "Home & Air Fresheners",
+			"children": []
+		},
+		{
+			"categoryID": "407",
+			"name": "Shoe Care",
+			"children": []
+		},
+		{
+			"categoryID": "1113",
+			"name": "Home Essentials",
+			"children": []
+		},
+		{
+			"categoryID": "1066",
+			"name": "Laundry Essentials",
+			"children": []
+		},
+		{
+			"categoryID": "855",
+			"name": "Hangers & Clips",
+			"children": []
+		},
+		{
+			"categoryID": "411",
+			"name": "Electricals",
+			"children": []
+		},
+		{
+			"categoryID": "293",
+			"name": "Beverages",
+			"children": [
+				"337",
+				"339",
+				"331",
+				"333",
+				"335",
+				"327"
+			]
+		},
+		{
+			"categoryID": "337",
+			"name": "Juices and Concentrates",
+			"children": []
+		},
+		{
+			"categoryID": "339",
+			"name": "Tea & Coffee",
+			"children": []
+		},
+		{
+			"categoryID": "331",
+			"name": "Soft Drinks",
+			"children": []
+		},
+		{
+			"categoryID": "333",
+			"name": "Health Drinks",
+			"children": []
+		},
+		{
+			"categoryID": "335",
+			"name": "Sports & Energy Drinks",
+			"children": []
+		},
+		{
+			"categoryID": "327",
+			"name": "Water",
+			"children": []
+		},
+		{
+			"categoryID": "283",
+			"name": "Bakery & Dairy",
+			"children": [
+				"323",
+				"325"
+			]
+		},
+		{
+			"categoryID": "323",
+			"name": "Dairy Products",
+			"children": []
+		},
+		{
+			"categoryID": "325",
+			"name": "Bread & Bakery",
+			"children": []
+		},
+		{
+			"categoryID": "285",
+			"name": "Jams, Spreads & Sauces",
+			"children": [
+				"1052",
+				"343",
+				"345",
+				"635",
+				"351",
+				"347"
+			]
+		},
+		{
+			"categoryID": "1052",
+			"name": "Dressings & Sauces",
+			"children": []
+		},
+		{
+			"categoryID": "343",
+			"name": "Pickles & Chutneys",
+			"children": []
+		},
+		{
+			"categoryID": "345",
+			"name": "Spreads and Dips",
+			"children": []
+		},
+		{
+			"categoryID": "635",
+			"name": "Tomato Ketchup",
+			"children": []
+		},
+		{
+			"categoryID": "351",
+			"name": "Cooking Pastes & Marinades",
+			"children": []
+		},
+		{
+			"categoryID": "347",
+			"name": "Honey",
+			"children": []
+		},
+		{
+			"categoryID": "1073",
+			"name": "Home Fashion",
+			"children": [
+				"1075",
+				"1155",
+				"1076",
+				"1146"
+			]
+		},
+		{
+			"categoryID": "1075",
+			"name": "Kitchen Towel",
+			"children": []
+		},
+		{
+			"categoryID": "1155",
+			"name": "Door Mats",
+			"children": []
+		},
+		{
+			"categoryID": "1076",
+			"name": "Face Towel",
+			"children": []
+		},
+		{
+			"categoryID": "1146",
+			"name": "Utility Bags",
+			"children": []
+		},
+		{
+			"categoryID": "291",
+			"name": "Kitchen & Utility",
+			"children": [
+				"433",
+				"1060",
+				"911",
+				"431",
+				"899",
+				"439"
+			]
+		},
+		{
+			"categoryID": "433",
+			"name": "Kitchen Tools",
+			"children": []
+		},
+		{
+			"categoryID": "1060",
+			"name": "Water Bottles & Flasks",
+			"children": []
+		},
+		{
+			"categoryID": "911",
+			"name": "Casseroles",
+			"children": []
+		},
+		{
+			"categoryID": "431",
+			"name": "Storage & Containers",
+			"children": []
+		},
+		{
+			"categoryID": "899",
+			"name": "Drinkware",
+			"children": []
+		},
+		{
+			"categoryID": "439",
+			"name": "Dinnerware",
+			"children": []
+		},
+		{
+			"categoryID": "397",
+			"name": "Baby Care",
+			"children": [
+				"735",
+				"729"
+			]
+		},
+		{
+			"categoryID": "735",
+			"name": "Bath & Skin",
+			"children": []
+		},
+		{
+			"categoryID": "729",
+			"name": "Diapers & Wipes",
+			"children": []
+		},
+		{
+			"categoryID": "268",
+			"name": "Stationery & Toys",
+			"children": [
+				"851",
+				"1036"
+			]
+		},
+		{
+			"categoryID": "851",
+			"name": "Pens",
+			"children": []
+		},
+		{
+			"categoryID": "1036",
+			"name": "Rakhi",
+			"children": []
+		},
+		{
+			"categoryID": "1003",
+			"name": "Eggs, Meats & Seafoods",
+			"children": [
+				"1011"
+			]
+		},
+		{
+			"categoryID": "1011",
+			"name": "Frozen Non-Veg Snacks",
+			"children": []
+		},
+		{
+			"categoryID": "279",
+			"name": "Fruits & Vegetables",
+			"children": [
+				"1041"
+			]
+		},
+		{
+			"categoryID": "1041",
+			"name": "Vegetables",
+			"children": []
+		},
+		{
+			"categoryID": "996",
+			"name": "Pet Care",
+			"children": [
+				"1038"
+			]
+		},
+		{
+			"categoryID": "1038",
+			"name": "Dog & Cat Foods",
+			"children": []
+		},
+		{
+			"categoryID": "405",
+			"name": "Soaps",
+			"children": []
+		},
+		{
+			"categoryID": "1062",
+			"name": "Home Furniture & Decor",
+			"children": []
+		}
+	]
+}
